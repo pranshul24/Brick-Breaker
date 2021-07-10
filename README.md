@@ -1,7 +1,6 @@
 # Brick Breaker Game
 
 ### Pranshul Chawla
-### 2019101057
 ---
 
 ## Introduction
